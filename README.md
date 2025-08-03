@@ -1,5 +1,11 @@
-<h1 align='center'>Hello World! I'm Pranav ^_^</h1>
-<h3 align="center"> Aspiring ML Engineer </h3>
+
+![Pi7_GIF_CMP](https://github.com/user-attachments/assets/35db0549-13a3-4673-8697-76afd56db855)<br></br>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=35&duration=3250&pause=1000&color=3A189A&center=true&width=600&lines=Hello+World+!;I'm+Pranav+Bhatt++(+%E2%97%9C%E1%B4%97%E2%97%9D+);Aspiring+ML+Engineer+" alt="Typing SVG" />
+</p>
+<!--<h1 align='center'>Hello World! I'm Pranav ^_^</h1>
+<h3 align="center"> Aspiring ML Engineer </h3>-->
 <br>I'm a Computer Science undergrad specializing in Artificial Intelligence & Machine Learning. I'm passionate about building smart, practical solutions—whether it's an AI assistant, a health risk predictor, or a simple simulator.  <br>I enjoy working with Python, exploring machine learning models, and occasionally battling bugs that mysteriously vanish when I hit *print()*. Most of my work revolves around NLP, predictive modeling, and real-world automation using AI. <br>Currently, I'm focused on sharpening my skills through hands-on projects and internships, and I'm always up for meaningful collaborations that push me to learn more.<br><br>Thanks for dropping by!
 
 
